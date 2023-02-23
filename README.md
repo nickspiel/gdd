@@ -1,2 +1,1 @@
-# gdd
-GIF Driven Development
+# GDD - GIF Driven Development
